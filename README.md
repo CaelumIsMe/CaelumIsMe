@@ -62,8 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Cybersecurity-F5C518?style=for-the-badge" height="40" alt="Cybersecurity" />
 </div>
 
 ###
@@ -76,6 +74,7 @@
   <img src="https://img.shields.io/badge/Bug%20Bounty-F5C518?style=for-the-badge&logo=hackerrank&logoColor=white" height="25" alt="Bug Bounty" />
   <img src="https://img.shields.io/badge/Web%20App%20Testing-007396?style=for-the-badge&logo=w3c&logoColor=white" height="25" alt="Web App Testing" />
   <img src="https://img.shields.io/badge/Open%20Source-007ec6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Cybersecurity-F5C518?style=for-the-badge" height="40" alt="Cybersecurity" />
 </p>
 
 ###
