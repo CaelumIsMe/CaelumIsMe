@@ -28,14 +28,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Caelum from ...<br><br>- 🔭 Currently working as ...<br>- 📚 Learning advanced cybersecurity, bug bounty hunting, web app testing<br>- ⚡ In my free time, I code, hack, and push boundaries</p>
-
-###
-
 <h3 align="left">🛠 Language and Tools</h3>
 
 ###
