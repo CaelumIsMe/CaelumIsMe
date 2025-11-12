@@ -1,17 +1,38 @@
-# Hi, I'm CaelumIsMe 👋
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-Welcome to my GitHub profile!
+###
 
-- 💻 I love coding in Python, JavaScript, and C++
-- 🚀 Currently working on awesome open source projects
-- 📫 How to reach me: [your email/link]
-- 🌱 Learning: AI, distributed systems, and cloud tech
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=security" height="60" alt="cybersecurity logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bug" height="60" alt="bugbounty logo" />
+</div>
 
-![CaelumIsMe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaelumIsMe&show_icons=true)
+###
 
-## Featured Projects
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+</div>
 
-- [Awesome Project 1](https://github.com/CaelumIsMe/awesome-project)
-- [Another Cool Repo](https://github.com/CaelumIsMe/cool-repo)
+###
 
-> Thanks for visiting!
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
+###
+
+<p align="center">
+  <b>Cybersecurity Enthusiast & Bug Bounty Hunter</b><br>
+  Passionate about finding vulnerabilities and securing applications.<br>
+  Experienced with React and Tailwind CSS for building modern, secure UIs.<br>
+  Always learning, hacking, and sharing knowledge!
+</p>
+
+###
