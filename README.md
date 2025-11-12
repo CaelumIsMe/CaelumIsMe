@@ -24,7 +24,22 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<!-- Typing effect for the headline (works on GitHub Profile but only when opened in browsers that allow script execution; won't run in safe Markdown preview) -->
+<h1 align="center">
+  <span id="typewriter"></span>
+  <script type="text/javascript">
+    const text = "Welcome to Caelum's Network!";
+    let i = 0;
+    function typeWriter() {
+      if (i < text.length) {
+        document.getElementById('typewriter').innerHTML += text.charAt(i);
+        i++;
+        setTimeout(typeWriter, 80);
+      }
+    }
+    typeWriter();
+  </script>
+</h1>
 
 ###
 
